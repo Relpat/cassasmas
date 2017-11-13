@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c21fb9dc-b129-4e98-b92b-39e7f3ef7615" name="Cassasmas" url="http://vwp4592.webpack.hosteurope.de">
+        <fileTransfer host="vwp4592.webpack.hosteurope.de" port="22" rootFolder="/is/htdocs/wp12243013_ZQG22FJM1A/www/doto/museum" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
